@@ -41,7 +41,7 @@ pip install xgboost
 ```
 scikit-learn 0.22.2.post1 
 ```shell
-pip install sklearn<br>
+pip install sklearn
 ```
 ## 下载数据及整理数据
 数据集下载链接：https://cloud.tsinghua.edu.cn/d/a96c9fb8f56d4fb5be62/<br>
@@ -71,7 +71,7 @@ bagging.py
 ```
 训练Adaboost：<br>
 ```shell
-
+Adaboost.py
 ```
 
 ## 训练模型测试
